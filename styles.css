@@ -6,6 +6,7 @@
   /* box-sizing:border-box; */
   font-family: "Be Vietnam Pro", sans-serif;
   scroll-behavior: smooth;
+  background-color: none;
 }
 :root {
   --bgOrange: #e84949;
@@ -193,7 +194,7 @@ a{
 
     50%{
         transform:scale(1.1);
-        filter:grayscale(1);
+        filter:grayscale(0);
         box-shadow: 3px 3px 10px black;
     }
 
