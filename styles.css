@@ -3,7 +3,7 @@
 *{
   margin:0;
   padding:0;
-  /* box-sizing:border-box; */
+  box-sizing:border-box;
   font-family: "Be Vietnam Pro", sans-serif;
   scroll-behavior: smooth;
   background-color: none;
@@ -457,7 +457,7 @@ a{
 
   #project2{
     margin-left:120px;
-    background-image: url(./images/projects/Project2.png);
+    background-image: url(./images/projects/project2.jpg);
   }
   #project3{
     background-image: url(./images/projects/Project3.png);
