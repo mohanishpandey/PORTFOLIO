@@ -3,3 +3,4 @@
 
 # PORTFOLIO
 You can contact me and know more about me via this Portfolio website.
+This poertfolio has my CV, social profiles and some projects.
