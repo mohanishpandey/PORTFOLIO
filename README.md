@@ -1,5 +1,6 @@
 
-![dpportfolio](https://github.com/mohanishpandey/PORTFOLIO/assets/83598114/c79c85e5-309c-4844-b3e8-2e2d648cba48)
+![dp new](https://github.com/mohanishpandey/PORTFOLIO/assets/83598114/718d2e33-184b-4cf2-9a9c-ad4457200320)
+
 
 # PORTFOLIO
 You can contact me and know more about me via this Portfolio website.
